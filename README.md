@@ -42,6 +42,7 @@ We have provided a pre-trained folder
     Casanovo --mode=train —peak_path=path/to/train/<train-spectrum file> —peak_feature=path/to/train/<feature-file> —peak_path_val=path/to/validation/<validation-spectrum file> —peak_feature_val=path/to/validation/<feature-file>
 
 ## References:
+
  1. N.H.Tran,R.Qiao,L.Xin,X.Chen,C.Liu,X.Zhang,B.Shan,A.Gh- odsi, and M. Li, “Deep learning enables de novo peptide sequencing from data-independent-acquisition mass spectrometry,” Nature methods, vol. 16, no. 1, pp. 63–66, 2019. 
 
  2. Yilmaz, M., Fondrie, W. E., Bittremieux, W., Oh, S. & Noble, W. S. De novo mass spectrometry peptide sequencing with a transformer model. in Proceedings of the 39th International Conference on Machine Learning - ICML '22 vol. 162 25514–25522 (PMLR, 2022). https://proceedings.mlr.press/v162/yilmaz22a.html
